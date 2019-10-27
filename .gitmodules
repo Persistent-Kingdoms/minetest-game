@@ -1,0 +1,90 @@
+[submodule "vessels"]
+	path = vessels
+	url = https://github.com/minetest-game-mods/vessels
+[submodule "walls"]
+	path = walls
+	url = https://github.com/minetest-game-mods/walls
+[submodule "wool"]
+	path = wool
+	url = https://github.com/minetest-game-mods/wool
+[submodule "screwdriver"]
+	path = screwdriver
+	url = https://github.com/minetest-game-mods/screwdriver
+[submodule "game_commands"]
+	path = game_commands
+	url = https://github.com/minetest-game-mods/game_commands
+[submodule "boats"]
+	path = boats
+	url = https://github.com/minetest-game-mods/boats
+[submodule "butterflies"]
+	path = butterflies
+	url = https://github.com/minetest-game-mods/butterflies
+[submodule "xpanes"]
+	path = xpanes
+	url = https://github.com/minetest-game-mods/xpanes
+[submodule "flowers"]
+	path = flowers
+	url = https://github.com/minetest-game-mods/flowers
+[submodule "dungeon_loot"]
+	path = dungeon_loot
+	url = https://github.com/minetest-game-mods/dungeon_loot
+[submodule "default"]
+	path = default
+	url = https://github.com/minetest-game-mods/default
+[submodule "tnt"]
+	path = tnt
+	url = https://github.com/minetest-game-mods/tnt
+[submodule "sfinv"]
+	path = sfinv
+	url = https://github.com/minetest-game-mods/sfinv
+[submodule "give_initial_stuff"]
+	path = give_initial_stuff
+	url = https://github.com/minetest-game-mods/give_initial_stuff
+[submodule "fireflies"]
+	path = fireflies
+	url = https://github.com/minetest-game-mods/fireflies
+[submodule "carts"]
+	path = carts
+	url = https://github.com/minetest-game-mods/carts
+[submodule "doors"]
+	path = doors
+	url = https://github.com/minetest-game-mods/doors
+[submodule "map"]
+	path = map
+	url = https://github.com/minetest-game-mods/map
+[submodule "fire"]
+	path = fire
+	url = https://github.com/minetest-game-mods/fire
+[submodule "bucket"]
+	path = bucket
+	url = https://github.com/minetest-game-mods/bucket
+[submodule "farming"]
+	path = farming
+	url = https://github.com/minetest-game-mods/farming
+[submodule "binoculars"]
+	path = binoculars
+	url = https://github.com/minetest-game-mods/binoculars
+[submodule "player_api"]
+	path = player_api
+	url = https://github.com/minetest-game-mods/player_api
+[submodule "bones"]
+	path = bones
+	url = https://github.com/minetest-game-mods/bones
+[submodule "creative"]
+	path = creative
+	url = https://github.com/minetest-game-mods/creative
+[submodule "sethome"]
+	path = sethome
+	url = https://github.com/minetest-game-mods/sethome
+[submodule "beds"]
+	path = beds
+	url = https://github.com/minetest-game-mods/beds
+[submodule "stairs"]
+	path = stairs
+	url = https://github.com/minetest-game-mods/stairs
+[submodule "dye"]
+	path = dye
+	url = https://github.com/minetest-game-mods/dye
+[submodule "spawn"]
+	path = spawn
+	url = https://github.com/minetest-game-mods/spawn
